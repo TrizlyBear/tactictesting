@@ -2,7 +2,7 @@
   {
     "Author": "hjort",
     "Tactic": "Wingers don't score anyway",
-    "Formation": "4-3-2-1",
+    "Formation": "4,3,2,1",
     "Points Per Game": 0.56,
     "Win %": "12%",
     "Draw %": "19%",
@@ -41,7 +41,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "Positive 523 WB Tiki Taka",
-    "Formation": "05/02/2003",
+    "Formation": "5,2,3",
     "Points Per Game": 0.69,
     "Win %": "17%",
     "Draw %": "17%",
@@ -80,7 +80,7 @@
   {
     "Author": "Folio",
     "Tactic": "Mourinho 2010 v2",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 0.79,
     "Win %": "19%",
     "Draw %": "21%",
@@ -119,7 +119,7 @@
   {
     "Author": "@fplcentre",
     "Tactic": "Arsenal Standard",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 0.81,
     "Win %": "19%",
     "Draw %": "23%",
@@ -158,7 +158,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "Tiki Taka 4-1-2-3 DM Wide",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 0.77,
     "Win %": "19%",
     "Draw %": "20%",
@@ -197,7 +197,7 @@
   {
     "Author": "BJT",
     "Tactic": "235 \"Inverted Pyramid",
-    "Formation": "05/04/2001",
+    "Formation": "5,4,1",
     "Points Per Game": 0.88,
     "Win %": "26%",
     "Draw %": "12%",
@@ -236,7 +236,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "4-1-2-3 DM Wide Wing Play",
-    "Formation": "4-1-2-3 DM",
+    "Formation": "4,1,2,3 DM",
     "Points Per Game": 0.86,
     "Win %": "22%",
     "Draw %": "21%",
@@ -275,7 +275,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "4.2.4 Wide Wing Play",
-    "Formation": "4-2-4 Wide",
+    "Formation": "4,2,4 Wide",
     "Points Per Game": 0.87,
     "Win %": "22%",
     "Draw %": "22%",
@@ -314,7 +314,7 @@
   {
     "Author": "BJT",
     "Tactic": "bjt-442-skyball-20",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 0.84,
     "Win %": "23%",
     "Draw %": "16%",
@@ -353,7 +353,7 @@
   {
     "Author": "Ozzy20",
     "Tactic": "4231JY",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 0.81,
     "Win %": "21%",
     "Draw %": "18%",
@@ -392,7 +392,7 @@
   {
     "Author": "Expected",
     "Tactic": "Anti-Football",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 0.78,
     "Win %": "21%",
     "Draw %": "17%",
@@ -431,7 +431,7 @@
   {
     "Author": "Ozzinho20",
     "Tactic": "4231JY",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 0.89,
     "Win %": "25%",
     "Draw %": "14%",
@@ -470,7 +470,7 @@
   {
     "Author": "rhsodus78",
     "Tactic": "mourinho Tottenham tactic",
-    "Formation": "4-2-2-2",
+    "Formation": "4,2,2,2",
     "Points Per Game": 0.82,
     "Win %": "21%",
     "Draw %": "20%",
@@ -509,7 +509,7 @@
   {
     "Author": "1shotlifestops",
     "Tactic": "BeGaming asymetric 4-1-2-2-1",
-    "Formation": "4-1-2-1-2",
+    "Formation": "4,1,2,1,2",
     "Points Per Game": 0.93,
     "Win %": "26%",
     "Draw %": "16%",
@@ -548,7 +548,7 @@
   {
     "Author": "@fplcentre",
     "Tactic": "Arsenal Positive",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 0.88,
     "Win %": "23%",
     "Draw %": "19%",
@@ -587,7 +587,7 @@
   {
     "Author": "StephenHK",
     "Tactic": "433DMStrikerless",
-    "Formation": "4-3-3-0",
+    "Formation": "4,3,3,0",
     "Points Per Game": 0.98,
     "Win %": "26%",
     "Draw %": "19%",
@@ -626,7 +626,7 @@
   {
     "Author": "FMNation",
     "Tactic": "FM2020 Viscount Gegenpress Tactic 1",
-    "Formation": "4-1-2-3 DM",
+    "Formation": "4,1,2,3 DM",
     "Points Per Game": 0.97,
     "Win %": "26%",
     "Draw %": "20%",
@@ -665,7 +665,7 @@
   {
     "Author": "clarkstonbhoy",
     "Tactic": "DOGS 442",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 0.93,
     "Win %": "26%",
     "Draw %": "17%",
@@ -704,7 +704,7 @@
   {
     "Author": "malcyelst",
     "Tactic": "4-3-2-1 BrisCityWideAtt",
-    "Formation": "4-3-2-1",
+    "Formation": "4,3,2,1",
     "Points Per Game": 0.9,
     "Win %": "23%",
     "Draw %": "20%",
@@ -743,7 +743,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "Positive 4231 DM Wide Tiki Taka",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 0.87,
     "Win %": "19%",
     "Draw %": "30%",
@@ -782,7 +782,7 @@
   {
     "Author": "BRAMLEYDOCKS",
     "Tactic": "Fluid in blue v3",
-    "Formation": "4-3-2-1",
+    "Formation": "4,3,2,1",
     "Points Per Game": 0.98,
     "Win %": "26%",
     "Draw %": "20%",
@@ -821,7 +821,7 @@
   {
     "Author": "TheCheAdleEnd1986",
     "Tactic": "TheCheAdleEnd's 1986 4-2-3-1 Gengenpress",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 0.95,
     "Win %": "25%",
     "Draw %": "20%",
@@ -860,7 +860,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "4.2.3.1 Control Possession",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 0.99,
     "Win %": "25%",
     "Draw %": "24%",
@@ -899,7 +899,7 @@
   {
     "Author": "oliphantastic",
     "Tactic": "Dutch Total Football 4-3-3",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 0.97,
     "Win %": "29%",
     "Draw %": "11%",
@@ -938,7 +938,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "442 Diamond Vertical Tiki Taka",
-    "Formation": "4-4-2 Diamond",
+    "Formation": "4,4,2 Diamond",
     "Points Per Game": 1.01,
     "Win %": "27%",
     "Draw %": "21%",
@@ -977,7 +977,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "442 Wing Play",
-    "Formation": "4-4-2 WP",
+    "Formation": "4,4,2 WP",
     "Points Per Game": 1.01,
     "Win %": "26%",
     "Draw %": "24%",
@@ -1016,7 +1016,7 @@
   {
     "Author": "BJT",
     "Tactic": "bjt-3412-nvg.20",
-    "Formation": "3-4-1-2",
+    "Formation": "3,4,1,2",
     "Points Per Game": 0.98,
     "Win %": "28%",
     "Draw %": "13%",
@@ -1055,7 +1055,7 @@
   {
     "Author": "NDK",
     "Tactic": "Nice, attacking tactic 4123",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.04,
     "Win %": "29%",
     "Draw %": "16%",
@@ -1094,7 +1094,7 @@
   {
     "Author": "bulstrap87",
     "Tactic": "Besiktas 4-3-2-1 neset",
-    "Formation": "4-3-2-1",
+    "Formation": "4,3,2,1",
     "Points Per Game": 1.07,
     "Win %": "29%",
     "Draw %": "20%",
@@ -1133,7 +1133,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "4.1.2.3 DM Control Possession",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.01,
     "Win %": "26%",
     "Draw %": "24%",
@@ -1172,7 +1172,7 @@
   {
     "Author": "bulstrap87",
     "Tactic": "Besiktas 4-3-2-1 neset",
-    "Formation": "4-3-2-1",
+    "Formation": "4,3,2,1",
     "Points Per Game": 1.04,
     "Win %": "27%",
     "Draw %": "24%",
@@ -1211,7 +1211,7 @@
   {
     "Author": "Dr Aktham",
     "Tactic": "Arrow",
-    "Formation": "4-3-1-2",
+    "Formation": "4,3,1,2",
     "Points Per Game": 1.03,
     "Win %": "28%",
     "Draw %": "18%",
@@ -1250,7 +1250,7 @@
   {
     "Author": "FMKorea",
     "Tactic": "Korean 4231 - Wide Playmakers",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.07,
     "Win %": "28%",
     "Draw %": "22%",
@@ -1289,7 +1289,7 @@
   {
     "Author": "pileto",
     "Tactic": "4-3-3 DM Creating Spaces",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.03,
     "Win %": "27%",
     "Draw %": "23%",
@@ -1328,7 +1328,7 @@
   {
     "Author": "RDF tactics",
     "Tactic": "Positive 4-1-2-3 DM Asymmetric",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.03,
     "Win %": "26%",
     "Draw %": "25%",
@@ -1367,7 +1367,7 @@
   {
     "Author": "Holmezy_l",
     "Tactic": "Doncaster V3",
-    "Formation": "4-1-4-1 DM Wide",
+    "Formation": "4,1,4,1 DM Wide",
     "Points Per Game": 1.02,
     "Win %": "26%",
     "Draw %": "24%",
@@ -1406,7 +1406,7 @@
   {
     "Author": "suarezandgerrard",
     "Tactic": "Kendallution V2.0",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.06,
     "Win %": "29%",
     "Draw %": "19%",
@@ -1445,7 +1445,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "4-2-3-1 Wide Gegenpress",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1,
     "Win %": "24%",
     "Draw %": "27%",
@@ -1484,7 +1484,7 @@
   {
     "Author": "Liam",
     "Tactic": "Insane Width V7",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.11,
     "Win %": "30%",
     "Draw %": "21%",
@@ -1523,7 +1523,7 @@
   {
     "Author": "IgorNikolayev",
     "Tactic": "4-3-3 Pressing PF",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.08,
     "Win %": "30%",
     "Draw %": "18%",
@@ -1562,7 +1562,7 @@
   {
     "Author": "Alvin Lin",
     "Tactic": "fmscout - Joejccva71's 4-1-4-1",
-    "Formation": "4-1-4-1",
+    "Formation": "4,1,4,1",
     "Points Per Game": 1.03,
     "Win %": "26%",
     "Draw %": "25%",
@@ -1601,7 +1601,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "5.2.3 WB Control Possession",
-    "Formation": "05/02/2003",
+    "Formation": "5,2,3",
     "Points Per Game": 1.07,
     "Win %": "27%",
     "Draw %": "26%",
@@ -1640,7 +1640,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "Positive 4-1-2-3 DM Wide Gengenpress",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.09,
     "Win %": "29%",
     "Draw %": "23%",
@@ -1679,7 +1679,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "Positive 4.4.2 Diamond Gegenpress",
-    "Formation": "4-4-2 D",
+    "Formation": "4,4,2 D",
     "Points Per Game": 1.07,
     "Win %": "28%",
     "Draw %": "22%",
@@ -1718,7 +1718,7 @@
   {
     "Author": "FMGizzmo",
     "Tactic": "FMWonderkids Lampard Gegenpress",
-    "Formation": "4-1-4-1",
+    "Formation": "4,1,4,1",
     "Points Per Game": 1.12,
     "Win %": "31%",
     "Draw %": "21%",
@@ -1757,7 +1757,7 @@
   {
     "Author": "BJT",
     "Tactic": "Ancelotti Xmas Tree 4321 / Ricardo Kaka Returns",
-    "Formation": "4-3-2-1",
+    "Formation": "4,3,2,1",
     "Points Per Game": 1.12,
     "Win %": "32%",
     "Draw %": "17%",
@@ -1796,7 +1796,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "5212 WB Vertical Tiki Taka",
-    "Formation": "5-2-1-2 WB",
+    "Formation": "5,2,1,2 WB",
     "Points Per Game": 1.07,
     "Win %": "28%",
     "Draw %": "24%",
@@ -1835,7 +1835,7 @@
   {
     "Author": "StephenHK",
     "Tactic": "433 ST Goalando",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.08,
     "Win %": "32%",
     "Draw %": "13%",
@@ -1874,7 +1874,7 @@
   {
     "Author": "harrycarrie",
     "Tactic": "523sirjur att v2",
-    "Formation": "05/02/2003",
+    "Formation": "5,2,3",
     "Points Per Game": 1.1,
     "Win %": "31%",
     "Draw %": "18%",
@@ -1913,7 +1913,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20BLUEMATTER433DMKnapP108ECCC451IWFM20P102P98",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.13,
     "Win %": "31%",
     "Draw %": "20%",
@@ -1952,7 +1952,7 @@
   {
     "Author": "Bretto 1",
     "Tactic": "433 Possession v1",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.12,
     "Win %": "31%",
     "Draw %": "19%",
@@ -1991,7 +1991,7 @@
   {
     "Author": "Victorhugo4222",
     "Tactic": "CJ's-4231-v3-GuruFM19",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.13,
     "Win %": "30%",
     "Draw %": "23%",
@@ -2030,7 +2030,7 @@
   {
     "Author": "RDF tactics",
     "Tactic": "Target Man exploit 2.0 443 Asymmetric Treble with Arsenal 95pts",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.15,
     "Win %": "32%",
     "Draw %": "18%",
@@ -2069,7 +2069,7 @@
   {
     "Author": "BJT",
     "Tactic": "Metodo 2323 “City Taka”",
-    "Formation": "2-3-2-3",
+    "Formation": "2,3,2,3",
     "Points Per Game": 1.16,
     "Win %": "32%",
     "Draw %": "21%",
@@ -2108,7 +2108,7 @@
   {
     "Author": "RDF Tactics",
     "Tactic": "RDF 4-1-4-1",
-    "Formation": "4-1-4-1",
+    "Formation": "4,1,4,1",
     "Points Per Game": 1.14,
     "Win %": "30%",
     "Draw %": "24%",
@@ -2147,7 +2147,7 @@
   {
     "Author": "StephenHK",
     "Tactic": "Chicken Wing 433 (DMs)",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.13,
     "Win %": "31%",
     "Draw %": "19%",
@@ -2186,7 +2186,7 @@
   {
     "Author": "StephenHK",
     "Tactic": "Chicken Wing 433 (CMs)",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.19,
     "Win %": "36%",
     "Draw %": "13%",
@@ -2225,7 +2225,7 @@
   {
     "Author": "BJT",
     "Tactic": "bjt-4312-ma-20",
-    "Formation": "4-3-1-2",
+    "Formation": "4,3,1,2",
     "Points Per Game": 1.19,
     "Win %": "33%",
     "Draw %": "19%",
@@ -2264,7 +2264,7 @@
   {
     "Author": "FMKorea",
     "Tactic": "4231 Poacher",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.18,
     "Win %": "32%",
     "Draw %": "21%",
@@ -2303,7 +2303,7 @@
   {
     "Author": "Preset (untouched)",
     "Tactic": "433 DM Wide Vertical Tiki Taka",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.18,
     "Win %": "33%",
     "Draw %": "18%",
@@ -2342,7 +2342,7 @@
   {
     "Author": "Folio",
     "Tactic": "Kaiser crew",
-    "Formation": "4-1-4-1",
+    "Formation": "4,1,4,1",
     "Points Per Game": 1.18,
     "Win %": "33%",
     "Draw %": "20%",
@@ -2381,7 +2381,7 @@
   {
     "Author": "Victorhugo4222",
     "Tactic": "4231 version of Knap's Fabulous 4132 Tactic",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.16,
     "Win %": "32%",
     "Draw %": "21%",
@@ -2420,7 +2420,7 @@
   {
     "Author": "ThePav",
     "Tactic": "4-2-4-0 Stikerless Kerrang FM",
-    "Formation": "4-2-4-0",
+    "Formation": "4,2,4,0",
     "Points Per Game": 1.14,
     "Win %": "30%",
     "Draw %": "24%",
@@ -2459,7 +2459,7 @@
   {
     "Author": "ThePav",
     "Tactic": "4-2-3-1 Kerrang FM",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.14,
     "Win %": "33%",
     "Draw %": "16%",
@@ -2498,7 +2498,7 @@
   {
     "Author": "Corei",
     "Tactic": "4123 Gegentaka Glory&Shine",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.2,
     "Win %": "32%",
     "Draw %": "23%",
@@ -2537,7 +2537,7 @@
   {
     "Author": "robbo877",
     "Tactic": "The Robbo 4123 Press",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.19,
     "Win %": "33%",
     "Draw %": "19%",
@@ -2576,7 +2576,7 @@
   {
     "Author": "moakton",
     "Tactic": "3-4-3 Max",
-    "Formation": "03/04/2003",
+    "Formation": "3,4,3",
     "Points Per Game": 1.19,
     "Win %": "32%",
     "Draw %": "22%",
@@ -2615,7 +2615,7 @@
   {
     "Author": "a20410959",
     "Tactic": "Gasperini Atlanta 4.0 3-4-1-2",
-    "Formation": "3-4-1-2",
+    "Formation": "3,4,1,2",
     "Points Per Game": 1.16,
     "Win %": "31%",
     "Draw %": "22%",
@@ -2654,7 +2654,7 @@
   {
     "Author": "Kukubird_LFC",
     "Tactic": "Kukubird's HeavyMetal_4123v1",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.21,
     "Win %": "34%",
     "Draw %": "19%",
@@ -2693,7 +2693,7 @@
   {
     "Author": "IgorNikolayev",
     "Tactic": "4-3-3 Pressing CF",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.19,
     "Win %": "33%",
     "Draw %": "19%",
@@ -2732,7 +2732,7 @@
   {
     "Author": "victorhugo4222",
     "Tactic": "CJ-23212",
-    "Formation": "2-3-2-1-2",
+    "Formation": "2,3,2,1,2",
     "Points Per Game": 1.19,
     "Win %": "33%",
     "Draw %": "19%",
@@ -2771,7 +2771,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20.2WULF4132PFDMIWBSPKnapP112ALLCUPSNOLOSSFM20.2P106ECCCTI",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.22,
     "Win %": "35%",
     "Draw %": "17%",
@@ -2805,12 +2805,12 @@
     "Goals For per Game__2": 1.56,
     "Goals Against per Game__2": 2.42,
     "Score__1": 10,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "doh007",
     "Tactic": "MM02.12",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.26,
     "Win %": "35%",
     "Draw %": "21%",
@@ -2849,7 +2849,7 @@
   {
     "Author": "1shotlifestops",
     "Tactic": "BeGaming 4-1-3-2 Counterpress",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.24,
     "Win %": "36%",
     "Draw %": "16%",
@@ -2888,7 +2888,7 @@
   {
     "Author": "xeewaj",
     "Tactic": "Quantum CS",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.25,
     "Win %": "34%",
     "Draw %": "22%",
@@ -2927,7 +2927,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM205WULF4141SPKnapP101ECFACC",
-    "Formation": "4-1-4-1",
+    "Formation": "4,1,4,1",
     "Points Per Game": 1.26,
     "Win %": "32%",
     "Draw %": "29%",
@@ -2966,7 +2966,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20.2PILGRIMAGEKnap3412P92",
-    "Formation": "3-4-1-2",
+    "Formation": "3,4,1,2",
     "Points Per Game": 1.26,
     "Win %": "35%",
     "Draw %": "21%",
@@ -3000,12 +3000,12 @@
     "Goals For per Game__2": 1.46,
     "Goals Against per Game__2": 2.21,
     "Score__1": 12,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "dobba1988",
     "Tactic": "city 8",
-    "Formation": "4-1-2-2-1",
+    "Formation": "4,1,2,2,1",
     "Points Per Game": 1.24,
     "Win %": "36%",
     "Draw %": "16%",
@@ -3044,7 +3044,7 @@
   {
     "Author": "BJT",
     "Tactic": "A Conte 352 / King of the Serie A 2",
-    "Formation": "03/05/2002",
+    "Formation": "3,5,2",
     "Points Per Game": 1.27,
     "Win %": "34%",
     "Draw %": "25%",
@@ -3083,7 +3083,7 @@
   {
     "Author": "FMKorea",
     "Tactic": "4132 Narrow Strikerless \"Gunner Wenger",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.28,
     "Win %": "33%",
     "Draw %": "28%",
@@ -3122,7 +3122,7 @@
   {
     "Author": "victorhugo4222",
     "Tactic": "CJ-4231-V7",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.27,
     "Win %": "36%",
     "Draw %": "18%",
@@ -3161,7 +3161,7 @@
   {
     "Author": "a20410959",
     "Tactic": "Positioning play v5 beta2",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.27,
     "Win %": "36%",
     "Draw %": "18%",
@@ -3200,7 +3200,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20SympathyforthedevilKnapZaip4132P102ECFA",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.28,
     "Win %": "36%",
     "Draw %": "21%",
@@ -3239,7 +3239,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20.2BEOWULF4231DMKnap",
-    "Formation": "4-2-3-1 DM",
+    "Formation": "4,2,3,1 DM",
     "Points Per Game": 1.26,
     "Win %": "35%",
     "Draw %": "21%",
@@ -3278,7 +3278,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20Tequilasunrise442.knaplassTHP93EC",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.26,
     "Win %": "35%",
     "Draw %": "21%",
@@ -3317,7 +3317,7 @@
   {
     "Author": "BJT",
     "Tactic": "433 / Liverpool 101 Points, All Cups / Klopp, Pep, Jose Inspired",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.31,
     "Win %": "36%",
     "Draw %": "24%",
@@ -3356,7 +3356,7 @@
   {
     "Author": "bretto1",
     "Tactic": "442 V1",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.32,
     "Win %": "39%",
     "Draw %": "15%",
@@ -3395,7 +3395,7 @@
   {
     "Author": "limclarence",
     "Tactic": "Heavy Metal_4-1-2-3V1",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.3,
     "Win %": "37%",
     "Draw %": "18%",
@@ -3434,7 +3434,7 @@
   {
     "Author": "Elmskov",
     "Tactic": "Elmskov's Dynamite",
-    "Formation": "4-1-4-1 DM Wide",
+    "Formation": "4,1,4,1 DM Wide",
     "Points Per Game": 1.29,
     "Win %": "37%",
     "Draw %": "19%",
@@ -3473,7 +3473,7 @@
   {
     "Author": "Par1s",
     "Tactic": "4231 Wulf Knap Tweaked by Paris",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.31,
     "Win %": "37%",
     "Draw %": "21%",
@@ -3512,7 +3512,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20Tequilasunrise442.knaplassTHP93EC",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.31,
     "Win %": "39%",
     "Draw %": "14%",
@@ -3551,7 +3551,7 @@
   {
     "Author": "StephenHK",
     "Tactic": "4231 Shaolin Chicken Wing Style",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.34,
     "Win %": "37%",
     "Draw %": "24%",
@@ -3590,7 +3590,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20WULF442PFPWMKnapP110ECCCFM20P102ECCC",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.34,
     "Win %": "38%",
     "Draw %": "19%",
@@ -3629,7 +3629,7 @@
   {
     "Author": "Kouly33",
     "Tactic": "4-2-2-2 Volante Final C1 2nd season with OM",
-    "Formation": "4-2-2-2",
+    "Formation": "4,2,2,2",
     "Points Per Game": 1.32,
     "Win %": "37%",
     "Draw %": "20%",
@@ -3668,7 +3668,7 @@
   {
     "Author": "knap",
     "Tactic": "FM20.2WULF4132PFDMIWBSPKnapP112ALLCUPSNOLOSSFM20.2P106ECCCTI",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.31,
     "Win %": "37%",
     "Draw %": "19%",
@@ -3707,7 +3707,7 @@
   {
     "Author": "Terjesen",
     "Tactic": "TT AVANTGARDE !",
-    "Formation": "4-1-2-3",
+    "Formation": "4,1,2,3",
     "Points Per Game": 1.32,
     "Win %": "36%",
     "Draw %": "25%",
@@ -3746,7 +3746,7 @@
   {
     "Author": "balesleftpeg",
     "Tactic": "VolatileVolante",
-    "Formation": "4-3-1-2 DM",
+    "Formation": "4,3,1,2 DM",
     "Points Per Game": 1.31,
     "Win %": "37%",
     "Draw %": "19%",
@@ -3785,7 +3785,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20GOODBYE4132PFDMIWBSPKnapP101",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.36,
     "Win %": "39%",
     "Draw %": "18%",
@@ -3824,7 +3824,7 @@
   {
     "Author": "Knap",
     "Tactic": "2056994560_FM20PILGRIMAGE41311leftbKnapKonP52",
-    "Formation": "4-1-3-1-1",
+    "Formation": "4,1,3,1,1",
     "Points Per Game": 1.36,
     "Win %": "39%",
     "Draw %": "19%",
@@ -3863,7 +3863,7 @@
   {
     "Author": "RDF Tactics",
     "Tactic": "4411 2DM Playmaking Fun!",
-    "Formation": "4-4-1-1",
+    "Formation": "4,4,1,1",
     "Points Per Game": 1.42,
     "Win %": "41%",
     "Draw %": "20%",
@@ -3902,7 +3902,7 @@
   {
     "Author": "Krovsky",
     "Tactic": "Solid 4411",
-    "Formation": "4-4-1-1",
+    "Formation": "4,4,1,1",
     "Points Per Game": 1.35,
     "Win %": "41%",
     "Draw %": "13%",
@@ -3941,7 +3941,7 @@
   {
     "Author": "PAV",
     "Tactic": "The Fiend 4-2-3-1",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.36,
     "Win %": "39%",
     "Draw %": "19%",
@@ -3980,7 +3980,7 @@
   {
     "Author": "BJT",
     "Tactic": "442 \"Fergie",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.37,
     "Win %": "38%",
     "Draw %": "23%",
@@ -4019,7 +4019,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20WULF4132PFDMIWBAPDLPKnapP102ALLCUPS",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.37,
     "Win %": "41%",
     "Draw %": "16%",
@@ -4058,7 +4058,7 @@
   {
     "Author": "ThePav",
     "Tactic": "The Fiend 4-2-3-1 v2",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.37,
     "Win %": "41%",
     "Draw %": "16%",
@@ -4097,7 +4097,7 @@
   {
     "Author": "StephenHK",
     "Tactic": "442 Shaolin Cold-Wings",
-    "Formation": "4-4-2 DM",
+    "Formation": "4,4,2 DM",
     "Points Per Game": 1.37,
     "Win %": "39%",
     "Draw %": "19%",
@@ -4136,7 +4136,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20.2HeavyLoadKnap4321P95",
-    "Formation": "4-3-2-1 DM",
+    "Formation": "4,3,2,1 DM",
     "Points Per Game": 1.37,
     "Win %": "39%",
     "Draw %": "21%",
@@ -4170,12 +4170,12 @@
     "Goals For per Game__2": 1.53,
     "Goals Against per Game__2": 2.19,
     "Score__1": 14,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "Knap",
     "Tactic": "687028431_FM20SympathyforthedevilKnapAndDavyCONTROLlowDLLOE",
-    "Formation": "4-2-2-2 DM",
+    "Formation": "4,2,2,2 DM",
     "Points Per Game": 1.37,
     "Win %": "39%",
     "Draw %": "18%",
@@ -4209,12 +4209,12 @@
     "Goals For per Game__2": 1.31,
     "Goals Against per Game__2": 2.24,
     "Score__1": 13,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "Knap",
     "Tactic": "FM20SympathyforthedevilKnapZaipLeipzigVol2",
-    "Formation": "4-2-2-2",
+    "Formation": "4,2,2,2",
     "Points Per Game": 1.4,
     "Win %": "41%",
     "Draw %": "17%",
@@ -4253,7 +4253,7 @@
   {
     "Author": "RDF Tactics",
     "Tactic": "Lev or Die 4-2-4 Wide",
-    "Formation": "04/02/2004",
+    "Formation": "4,2,4",
     "Points Per Game": 1.41,
     "Win %": "41%",
     "Draw %": "17%",
@@ -4292,7 +4292,7 @@
   {
     "Author": "Folio",
     "Tactic": "West Ham 3th Season ChL winner",
-    "Formation": "04/03/2003",
+    "Formation": "4,3,3",
     "Points Per Game": 1.39,
     "Win %": "39%",
     "Draw %": "23%",
@@ -4331,7 +4331,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20SympathyforthedevilKnapZaipvol2442P103ECCC",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.44,
     "Win %": "43%",
     "Draw %": "16%",
@@ -4370,7 +4370,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20.2BEOWULF442WAFKnapP107ALLCUPS",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.39,
     "Win %": "41%",
     "Draw %": "18%",
@@ -4404,12 +4404,12 @@
     "Goals For per Game__2": 1.77,
     "Goals Against per Game__2": 2.61,
     "Score__1": 15,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "Knap",
     "Tactic": "FM20.2WULFVOL42220Knap",
-    "Formation": "4-2-2-2-0",
+    "Formation": "4,2,2,2,0",
     "Points Per Game": 1.4,
     "Win %": "39%",
     "Draw %": "22%",
@@ -4443,12 +4443,12 @@
     "Goals For per Game__2": 1.43,
     "Goals Against per Game__2": 1.99,
     "Score__1": 17,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "Knap",
     "Tactic": "FM20.2NorthernSoulMRHKnap5-3-2P101CC",
-    "Formation": "05/03/2002",
+    "Formation": "5,3,2",
     "Points Per Game": 1.43,
     "Win %": "40%",
     "Draw %": "23%",
@@ -4482,12 +4482,12 @@
     "Goals For per Game__2": 1.48,
     "Goals Against per Game__2": 1.76,
     "Score__1": 19,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "Ludovic Stewart",
     "Tactic": "Volante 2-4-2-2",
-    "Formation": "2-4-2-2",
+    "Formation": "2,4,2,2",
     "Points Per Game": 1.44,
     "Win %": "40%",
     "Draw %": "24%",
@@ -4526,7 +4526,7 @@
   {
     "Author": "a20410959",
     "Tactic": "real 4-4-2",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.42,
     "Win %": "42%",
     "Draw %": "15%",
@@ -4565,7 +4565,7 @@
   {
     "Author": "StephenHK",
     "Tactic": "442 Shaolin Hot-Wings",
-    "Formation": "4-4-2 DM",
+    "Formation": "4,4,2 DM",
     "Points Per Game": 1.43,
     "Win %": "41%",
     "Draw %": "21%",
@@ -4604,7 +4604,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20.2PILGRIMAGEKnapIWB41221OXFORDMUP86PL",
-    "Formation": "4-1-2-2-1",
+    "Formation": "4,1,2,2,1",
     "Points Per Game": 1.41,
     "Win %": "40%",
     "Draw %": "21%",
@@ -4638,12 +4638,12 @@
     "Goals For per Game__2": 1.43,
     "Goals Against per Game__2": 2.16,
     "Score__1": 13,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "TFF",
     "Tactic": "(FM20) ZEUS V1 by TFF",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.44,
     "Win %": "42%",
     "Draw %": "18%",
@@ -4682,7 +4682,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20NorthernSoulMRHKnap5-3-2P104CC",
-    "Formation": "05/03/2002",
+    "Formation": "5,3,2",
     "Points Per Game": 1.41,
     "Win %": "41%",
     "Draw %": "19%",
@@ -4716,12 +4716,12 @@
     "Goals For per Game__2": 1.29,
     "Goals Against per Game__2": 1.69,
     "Score__1": 16,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "welshdragonz",
     "Tactic": "Bluebirds (Beowulf107allcups tweak)",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.42,
     "Win %": "43%",
     "Draw %": "14%",
@@ -4760,7 +4760,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20WULF4132PFDMIWBSPKnapP112ALLCUPSNOLOSSFM20P102ECCC",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.44,
     "Win %": "42%",
     "Draw %": "19%",
@@ -4799,7 +4799,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20.1WULF4141SPKnapP106ECCCKINGP107_SOLOUNAMIGOP104KINGP104FM20P99ECFAATTACKP103",
-    "Formation": "4-1-4-1",
+    "Formation": "4,1,4,1",
     "Points Per Game": 1.45,
     "Win %": "42%",
     "Draw %": "18%",
@@ -4838,7 +4838,7 @@
   {
     "Author": "StephenHK",
     "Tactic": "352 Shaolin Chicken Wings",
-    "Formation": "03/05/2002",
+    "Formation": "3,5,2",
     "Points Per Game": 1.53,
     "Win %": "46%",
     "Draw %": "14%",
@@ -4877,7 +4877,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20SICILIAN442PFDMIWBSPKnapP98ALLCUPS",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.47,
     "Win %": "43%",
     "Draw %": "17%",
@@ -4916,7 +4916,7 @@
   {
     "Author": "hepek",
     "Tactic": "Mr U Rosler's Special 3-3-3-2 Underdog Tactic",
-    "Formation": "3-3-2-2",
+    "Formation": "3,3,2,2",
     "Points Per Game": 1.48,
     "Win %": "42%",
     "Draw %": "22%",
@@ -4955,7 +4955,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20NorthernSoulMRHKnap5-3-2P107ECFA",
-    "Formation": "05/03/2002",
+    "Formation": "5,3,2",
     "Points Per Game": 1.47,
     "Win %": "41%",
     "Draw %": "26%",
@@ -4989,12 +4989,12 @@
     "Goals For per Game__2": 1.37,
     "Goals Against per Game__2": 1.54,
     "Score__1": 17,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "Knap",
     "Tactic": "FM20.2WULF4132PFDMIWBSPKnapP112ALLCUPSNOLOSSFM20.2P102ECCC",
-    "Formation": "4-1-3-2",
+    "Formation": "4,1,3,2",
     "Points Per Game": 1.48,
     "Win %": "42%",
     "Draw %": "23%",
@@ -5028,12 +5028,12 @@
     "Goals For per Game__2": 1.56,
     "Goals Against per Game__2": 2.19,
     "Score__1": 16,
-    "URL": "https://fm-base.co.uk/threads/knaps-green-tactics-best-of-collection.161904/"
+    "URL": ""
   },
   {
     "Author": "Knap",
     "Tactic": "FM20SympathyforthedevilKnapZaipLeipzig",
-    "Formation": "4-2-2-2",
+    "Formation": "4,2,2,2",
     "Points Per Game": 1.55,
     "Win %": "44%",
     "Draw %": "23%",
@@ -5072,7 +5072,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM204ARGUSknap352P103ECCC",
-    "Formation": "03/05/2002",
+    "Formation": "3,5,2",
     "Points Per Game": 1.48,
     "Win %": "43%",
     "Draw %": "19%",
@@ -5111,7 +5111,7 @@
   {
     "Author": "equator",
     "Tactic": "fm.20.2 assassin 442v1 by equator",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.49,
     "Win %": "43%",
     "Draw %": "19%",
@@ -5150,7 +5150,7 @@
   {
     "Author": "AD1990",
     "Tactic": "Mass Attack Imperator",
-    "Formation": "05/04/2001",
+    "Formation": "5,4,1",
     "Points Per Game": 1.53,
     "Win %": "44%",
     "Draw %": "21%",
@@ -5189,7 +5189,7 @@
   {
     "Author": "Knap",
     "Tactic": "FM20.2SICILIAN442DLKnapP101ALLCUPS",
-    "Formation": "4-2-2-2 DM",
+    "Formation": "4,2,2,2 DM",
     "Points Per Game": 1.62,
     "Win %": "48%",
     "Draw %": "18%",
@@ -5228,7 +5228,7 @@
   {
     "Author": "Folio",
     "Tactic": "Wild Band 424 v2",
-    "Formation": "4-2-2-2",
+    "Formation": "4,2,2,2",
     "Points Per Game": 1.51,
     "Win %": "44%",
     "Draw %": "19%",
@@ -5267,7 +5267,7 @@
   {
     "Author": "a20410959",
     "Tactic": "Line of Defence 532",
-    "Formation": "05/03/2002",
+    "Formation": "5,3,2",
     "Points Per Game": 1.28,
     "Win %": "38%",
     "Draw %": "13%",
@@ -5306,7 +5306,7 @@
   {
     "Author": "equator",
     "Tactic": "fm.20.2 assassin 442v3 by equator",
-    "Formation": "04/04/2002",
+    "Formation": "4,4,2",
     "Points Per Game": 1.39,
     "Win %": "41%",
     "Draw %": "16%",
@@ -5345,7 +5345,7 @@
   {
     "Author": "kingabdi",
     "Tactic": "Attacking 4-2-3-1 Wide - Custom GegenpressKA",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.32,
     "Win %": "41%",
     "Draw %": "11%",
@@ -5384,7 +5384,7 @@
   {
     "Author": "ThePav",
     "Tactic": "The Fiend v3",
-    "Formation": "4-2-3-1",
+    "Formation": "4,2,3,1",
     "Points Per Game": 1.41,
     "Win %": "41%",
     "Draw %": "18%",
