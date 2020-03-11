@@ -1682,7 +1682,7 @@
    {
       "﻿Author": "KNAP",
       "Tactic": "TEA FOR ONE 41121 P 101 CC KNAP",
-      "Formation": 41121,
+      "Formation": "41121",
       "URL": "https://fm-base.co.uk/threads/tea-for-one-41121-p-101-cc-knap.162768/",
       "Win %": "62%",
       "Draw %": "20%",
@@ -1766,7 +1766,7 @@
    {
       "﻿Author": "Folio",
       "Tactic": "Ravnovesie - 4231",
-      "Formation": 4231,
+      "Formation": "4231",
       "URL": "https://fm-base.co.uk/resources/ravnovesie-bundle-4231-442-5212.550/",
       "Win %": "51%",
       "Draw %": "25%",
@@ -1848,9 +1848,9 @@
       "Lower Score": 9
    },
    {
-      "﻿Author": "Folio",
+      "Author": "Folio",
       "Tactic": "ravnovesie 4231 v2 (improved)",
-      "Formation": 4231,
+      "Formation": "4231",
       "URL": "https://fm-base.co.uk/resources/ravnovesie-bundle-4231-442-5212.550/",
       "Win %": "46%",
       "Draw %": "24%",
@@ -1932,7 +1932,7 @@
       "Lower Score": 6
    },
    {
-      "﻿Author": "Folio",
+      "Author": "Folio",
       "Tactic": "ravnovesie 5212",
       "Formation": "5,2,1,2",
       "URL": "https://fm-base.co.uk/resources/ravnovesie-bundle-4231-442-5212.550/",
@@ -2016,7 +2016,7 @@
       "Lower Score": 8
    },
    {
-      "﻿Author": "ByH",
+      "Author": "ByH",
       "Tactic": "AmaDo 4240Asy - ByH",
       "Formation": "4,4,2",
       "URL": "https://fm-base.co.uk/resources/amado-4240asy-byh.480/",
